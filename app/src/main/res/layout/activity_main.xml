@@ -24,14 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:layout_toRightOf="@+id/hello"
-        />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello India!"
-        android:layout_toRightOf="@+id/hello"
+        android:layout_toRightOf="@+id/hello" "
         />
 
 </RelativeLayout>
