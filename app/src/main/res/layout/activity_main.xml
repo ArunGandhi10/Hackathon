@@ -11,21 +11,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/hello"
-        android:text="Hello"/>
+        android:text="Star lord sucks"/>
 
-        />
-
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Thanos Demads Your Silence"
-        android:layout_toRightOf="@+id/hello"
-        />
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello Asgard"
-        android:layout_toRightOf="@+id/hello"
         />
 
 </RelativeLayout>
