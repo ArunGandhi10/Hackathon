@@ -11,7 +11,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/hello"
-        android:text="Hello"/>
+        android:text="We are coming Odesaa"/>
 
     <Button
         android:layout_width="wrap_content"
@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!"
-        android:layout_toRightOf="@+id/hello" "
+        android:layout_toRightOf="@+id/hello"
         />
 
 </RelativeLayout>
