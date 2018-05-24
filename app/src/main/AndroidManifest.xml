@@ -16,7 +16,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+<<<<<<< HEAD
         <activity android:name=".GoldLoanActivity"></activity>
+=======
+        <activity android:name=".Welcome"></activity>
+>>>>>>> 92aa2b322301e9b66c1f4a8c04f183257ce4c554
     </application>
 
 </manifest>
